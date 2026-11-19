@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["TRQM2GNH4Y.com.kobikrief.krookiz"],
+        "components": [
+          { "/": "/krookiz/join/*", "comment": "Krookiz family invitations" },
+          { "/": "/krookiz/join", "comment": "the same, without the last slash" }
+        ]
+      }
+    ]
+  }
+}
